@@ -1,0 +1,10 @@
+D:\c++ projects\Project Word Counter Desktop App\bin\Debug\Project Word Counter Desktop App.exe.config
+D:\c++ projects\Project Word Counter Desktop App\bin\Debug\Project Word Counter Desktop App.exe
+D:\c++ projects\Project Word Counter Desktop App\bin\Debug\Project Word Counter Desktop App.pdb
+D:\c++ projects\Project Word Counter Desktop App\obj\Debug\Project Word Counter Desktop App.csproj.AssemblyReference.cache
+D:\c++ projects\Project Word Counter Desktop App\obj\Debug\Project_Word_Counter_Desktop_App.Form1.resources
+D:\c++ projects\Project Word Counter Desktop App\obj\Debug\Project_Word_Counter_Desktop_App.Properties.Resources.resources
+D:\c++ projects\Project Word Counter Desktop App\obj\Debug\Project Word Counter Desktop App.csproj.GenerateResource.cache
+D:\c++ projects\Project Word Counter Desktop App\obj\Debug\Project Word Counter Desktop App.csproj.CoreCompileInputs.cache
+D:\c++ projects\Project Word Counter Desktop App\obj\Debug\Project Word Counter Desktop App.exe
+D:\c++ projects\Project Word Counter Desktop App\obj\Debug\Project Word Counter Desktop App.pdb
